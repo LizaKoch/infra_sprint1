@@ -1,0 +1,6 @@
+IP: 158.160.4.212;
+name_taski: https://castaways.sytes.net;
+name_kittygram: https://ihateyp.webhop.me;
+login: Admin;
+password: Admin;
+
