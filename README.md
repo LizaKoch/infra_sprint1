@@ -1,1 +1,1 @@
-# infra_sprint1
+# Проект для изучения gunicorn
